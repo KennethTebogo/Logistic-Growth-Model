@@ -5,7 +5,10 @@ This repository contains a Python implementation of the logistic growth model, a
 ## Description
 The logistic growth equation models population growth with a carrying capacity:
 
-\[ \frac{dP}{dt} = kP (M - P) \]
+$$
+\frac{dP}{dt} = kP (M - P)
+$$
+
 
 where:
 - \( P \) is the population size,
